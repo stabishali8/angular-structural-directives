@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'structural-directives';
+  public name = " Tabish ";
+  public message = "";
+
 }
